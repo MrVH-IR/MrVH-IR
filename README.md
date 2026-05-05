@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 'ChatMe' , 'MaliNo'<br>I'm looking to collaborate with a Front-End Dev<br>I'm looking for help with Styling and Front-End Codes<br>I'm currently a Laravel - Livewire Developer<br>
+I'm currently a Laravel - Livewire Developer <br> I Do QA & Test as well
 
 
 ## 🌐 Socials:
