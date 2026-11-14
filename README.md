@@ -21,6 +21,6 @@ I'm Currently A Laravel Developer<br>I Code In Go as well<br>Working On a SaaS P
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrVH-IR&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![GoldSeller](https://github.com/MrVH-IR/shop)
+![GoldSeller](https://github.com/MrVH-IR/tala)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
