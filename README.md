@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently A Laravel Developer<br>I Code In Java as well<br>Working On a SaaS Project Called AutoDev<br>
+I'm Currently A Laravel Developer<br>I Code In Go as well<br>Working On a SaaS Project Called AutoDev<br>
 
 
 ## 🌐 Socials:
